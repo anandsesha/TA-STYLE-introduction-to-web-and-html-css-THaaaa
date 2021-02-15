@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+.paragraph {
+    color: darkgreen;
+    font-size: 30px;
+}
+
+#unique {
+    background-color: silver;
+}
