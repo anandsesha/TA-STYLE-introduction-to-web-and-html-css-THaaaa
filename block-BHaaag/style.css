@@ -1,0 +1,49 @@
+.heading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+body {
+    background-color: darkblue;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.experience {
+    color: green;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.expheading {
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    word-spacing: 100px;
+    color: orangered;
+}
+
+address {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+#addressid {
+    color: white;
+}
